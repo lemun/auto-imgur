@@ -1,4 +1,4 @@
-# Mashov Covid-19 Automated Filler (+ Discord Webhook Integration)
+# Imgur Automated Uploader
 A Python Application written with Python using PyImgur and some other libs
 ![image](https://user-images.githubusercontent.com/30008308/113910844-f479f080-97e1-11eb-8dc0-0e3600f6d4bf.png)
 ## Install
